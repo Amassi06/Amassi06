@@ -1,6 +1,6 @@
-![alt text](https://github.com/Amassi06/Amassi06/blob/main/background.png)
 <h1 align="center">Salut 👋, Je m'appelle Aidel Massinissa</h1>
 <h3 align="center">Un développeur passionné</h3>
+![alt text](https://github.com/Amassi06/Amassi06/blob/main/background.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amassi06&label=Profile%20views&color=0e75b6&style=flat" alt="amassi06" /> </p>
 
