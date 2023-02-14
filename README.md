@@ -1,3 +1,4 @@
+![alt text](https://github.com/Amassi06/Amassi06/blob/main/background.png)
 <h1 align="center">Salut 👋, Je m'appelle Aidel Massinissa</h1>
 <h3 align="center">Un développeur passionné</h3>
 
