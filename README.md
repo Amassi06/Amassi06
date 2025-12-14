@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h3 align="center">Massinissa Aidel | Développeur Passionné 🚀 | aimassi.dev </h3>
+<h3 align="center">Massinissa Aidel | Développeur Passionné 🚀 | @aimassi.dev </h3>
 
 <p align="center">
-  <a href="https://amassi.dev">
+  <a href="https://aimassi.dev">
     <img src="https://img.shields.io/badge/Projets-Voir%20mon%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
   <a href="mailto:aidelmassi@gmail.com">
