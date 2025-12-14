@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://aimassi.dev">
-    <img src="https://img.shields.io/badge/Projets-Voir%20mon%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Amassi06-Voir%20mon%20Portfolio-blue?style=for-the-badge&logo=github" alt="Portfolio" />
   </a>
   <a href="mailto:aidelmassi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me%20Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
